@@ -11,7 +11,7 @@
 #' @examples
 #' div(3,7.2)
 #'
-#' @seealso \link{mult}
+#' @seealso \link{mult}, \link{suma}, \link{resta}.
 #'
 div = function(a,b){
   if (b==0){
