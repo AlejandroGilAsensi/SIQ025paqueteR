@@ -22,5 +22,5 @@ div(3,7.2)
 
 }
 \seealso{
-\link{mult}
+\link{mult}, \link{suma}, \link{resta}.
 }

@@ -19,8 +19,11 @@ Esta función devuelve la multiplicación entre dos números.
 }
 \examples{
 mult(4,2.3)
+mult(0,3.7)
+mult(-4/3,98.123)
+mult(pi,3)
 
 }
 \seealso{
-\link{div}
+\link{div}, \link{suma}, \link{resta}.
 }
